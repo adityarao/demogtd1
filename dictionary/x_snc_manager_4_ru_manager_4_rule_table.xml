@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Manager 4 rule Table" max_length="40" name="x_snc_manager_4_ru_manager_4_rule_table" type="collection">
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Rule Number" max_length="256" name="rule_number" type="string"/>
+        <element label="Rule Text" max_length="256" name="rule_text" type="string"/>
+    </element>
+</database>

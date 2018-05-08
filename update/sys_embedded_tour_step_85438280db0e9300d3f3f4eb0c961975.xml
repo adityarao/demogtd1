@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_embedded_tour_step">
+    <sys_embedded_tour_step action="INSERT_OR_UPDATE">
+        <action>false</action>
+        <action_event>next</action_event>
+        <action_target/>
+        <action_target_ref display_value="x_snc_manager_4_ru_manager_4_rule_table.">c5438280db0e9300d3f3f4eb0c96194e</action_target_ref>
+        <active>true</active>
+        <content><![CDATA[Enter the rule number ]]></content>
+        <guide display_value="My Tour">a623ce40db0e9300d3f3f4eb0c961990</guide>
+        <implicit>false</implicit>
+        <link/>
+        <name>Step 0</name>
+        <options/>
+        <order>0</order>
+        <placement>bottom</placement>
+        <step_type>step</step_type>
+        <sys_class_name>sys_embedded_tour_step</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-05-08 18:04:06</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>85438280db0e9300d3f3f4eb0c961975</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Step 0</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Manager 4 rule" source="x_snc_manager_4_ru">b7428a00db0e9300d3f3f4eb0c961996</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Manager 4 rule">b7428a00db0e9300d3f3f4eb0c961996</sys_scope>
+        <sys_update_name>sys_embedded_tour_step_85438280db0e9300d3f3f4eb0c961975</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-05-08 18:04:06</sys_updated_on>
+        <target/>
+        <target_ref display_value="x_snc_manager_4_ru_manager_4_rule_table.">c5438280db0e9300d3f3f4eb0c96194e</target_ref>
+        <title><![CDATA[Step 0]]></title>
+        <ui_version>dynamic</ui_version>
+        <view/>
+        <window>x_snc_manager_4_ru_manager_4_rule_table.do</window>
+    </sys_embedded_tour_step>
+    <sys_translated_text action="delete_multiple" query="documentkey=85438280db0e9300d3f3f4eb0c961975"/>
+</record_update>
